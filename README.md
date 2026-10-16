@@ -51,3 +51,10 @@ Hey! I'm **Nattan Aguia**, a passionate developer and an aspiring **Data Enginee
 I'm passionate about learning new technologies, solving problems and turning raw data into meaningful insights.
 
 I hope this project serves as a great opportunity to demonstrate my skills in **Python, SQL, ETL pipelines, and Data Warehousing**, while continuing to learn and grow as a Data Engineer.
+
+
+### 🔗 Connect With Me
+
+- **LinkedIn:** [Nattan Aguia](https://www.linkedin.com/in/TU-USUARIO/)
+- **GitHub:** [nattanaguiat](https://github.com/nattanaguiat)
+
