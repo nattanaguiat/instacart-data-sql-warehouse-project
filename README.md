@@ -56,5 +56,6 @@ I hope this project serves as a great opportunity to demonstrate my skills in **
 ### 🔗 Connect With Me
 
 - **LinkedIn:** [Nattan Aguia](https://www.linkedin.com/in/TU-USUARIO/)
+- **Email:** [nattan.aguia@gmail.com](mailto:nattan.aguia@gmail.com)
 - **GitHub:** [nattanaguiat](https://github.com/nattanaguiat)
 
