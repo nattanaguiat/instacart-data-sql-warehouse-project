@@ -1,4 +1,5 @@
 
+
 /*
 ========================================================
 Instacart Data Warehouse - Initialization Script
@@ -12,6 +13,11 @@ Database:
 
 Environment:
     PostgreSQL 17 | Docker | DBeaver
+
+Prerequisites:
+    - PostgreSQL container must be running.
+    - Database instacart_dw must already exist.
+    - Connect to instacart_dw before executing.
 
 ========================================================
 */
